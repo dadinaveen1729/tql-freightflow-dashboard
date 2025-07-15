@@ -8,7 +8,7 @@ This is a freight insights dashboard built to help TQL sales reps make faster, s
 
 ---
 
-## 🎯 Why did I build this?
+## 🎯 Why did I build this for TQL?
 
 At TQL, sales is fast, competitive, and full of moving parts. I built this because I know how stressful it can be to manage 80+ calls a day, chase carriers, and keep clients happy.
 
@@ -24,7 +24,7 @@ That’s what this dashboard does: it helps the rep help the customer, faster.
 
 ---
 
-## ⚙️ How it works
+## ⚙️ How it works for TQL:)
 
 I created a sample freight dataset that includes:
 - Client names  
