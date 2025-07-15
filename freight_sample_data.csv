@@ -1,0 +1,10 @@
+Client,Carrier,Load Date,Pickup Status,Delivery Status,Gross Margin
+Client A,Carrier X,2025-07-01,On Time,On Time,120
+Client B,Carrier Y,2025-07-02,Missed,Late,80
+Client C,Carrier Z,2025-07-03,Late,On Time,150
+Client A,Carrier X,2025-07-04,On Time,On Time,130
+Client B,Carrier Y,2025-07-05,Missed,On Time,75
+Client C,Carrier Z,2025-07-06,On Time,Late,110
+Client A,Carrier W,2025-07-07,Late,On Time,100
+Client B,Carrier X,2025-07-08,On Time,Late,140
+Client C,Carrier Y,2025-07-09,Late,On Time,90
